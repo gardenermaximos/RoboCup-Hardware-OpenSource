@@ -1,4 +1,4 @@
-# 🤖 RoboCup Autonomous Soccer Robot – Mechanical Hardware (Open-Source)
+# RoboCup Autonomous Soccer Robot – Mechanical Hardware (Open-Source)
 
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
