@@ -1,4 +1,4 @@
-# 🪛 3D Printable Files (.STL / .3MF) & Manufacturing Guide
+# 3D Printable Files (.STL / .3MF) & Manufacturing Guide
 
 This directory contains production-ready 3D printable files (`.STL` and `.3MF`) for all custom structural and mechanical components of the robot. 
 
