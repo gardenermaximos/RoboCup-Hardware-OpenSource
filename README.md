@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Category](https://img.shields.io/badge/RoboCup_Junior-Lightweight_%26_Infrared-orange?style=flat-square)
+![Category](https://img.shields.io/badge/RoboCup_Junior-Infrared-orange?style=flat-square)
 
 Welcome to the official open-source hardware repository of our National Champion RoboCup High School Robotics Team! This repository hosts production-ready CAD models, 3D printing parameters, chassis blueprints, and physical integration guidelines for competitive autonomous soccer robots.
 
